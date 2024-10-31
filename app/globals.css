@@ -7,12 +7,12 @@
     @apply font-primary bg-primary text-w;
   }
   .h1{
-    @apply font-semibold xl:text-4xl text-2xl leading-[1.1];
+    @apply font-semibold xl:text-4xl text-2xl;
   }
   .h2{
-    @apply font-semibold xl:text-2xl text-xl leading-[1.1];
+    @apply font-semibold xl:text-2xl text-xl;
   }
   .h3{
-    @apply font-semibold xl:text-xl text-md leading-[1.1];
+    @apply font-semibold xl:text-xl text-md;
   }
 }
