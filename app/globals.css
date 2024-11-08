@@ -15,4 +15,8 @@
   .h3{
     @apply font-semibold xl:text-xl text-md;
   }
+  /* Reason: text-outline doesn't work */
+  .outlined {
+    -webkit-text-stroke: 2px white;
+  }
 }
